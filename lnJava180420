@@ -3,3 +3,6 @@ curl http://127.0.0.1:port/rest/v1/...
 
 curl_POST
 curl -H "Content-Type:application/json" -X POST -d '{jsonString...}' http://127.0.0.1:port/rest/v1/...
+
+
+String[] list1 = new String[]{"s1","s2"}
